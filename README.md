@@ -1,6 +1,7 @@
 <h1>
  FLAPPY BIRD CLONE
 </h1>
+A fully playable Flappy Bird clone built in Unity with C#. Features gravity physics, procedural pipe spawning, parallax scrolling background, sprite animation, and collision detection — all architected across clean separate scripts.
 <h2>
  Script Breakdown
 </h2>
